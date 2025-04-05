@@ -14,7 +14,7 @@ A Spring Boot-based e-commerce application for selling fruits online. This appli
 
 ## Technologies Used
 
-- Java 11
+- Java 17
 - Spring Boot 2.7.0
 - Spring Security
 - Spring Data JPA
